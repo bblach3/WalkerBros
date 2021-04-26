@@ -1,0 +1,98 @@
+/* black -#000000
+navy - #14213D
+gold - #FCA311  (accent)
+light gray - #E5E5E5
+white = #FFFFFF */
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-navy{
+    background-color: #14213D;
+}
+
+.bg-accent{
+    background-color:#FCA311;
+}
+
+.bg-lightGray{
+    background-color:#E5E5E5;
+}
+
+
+
+.txt-white{
+    color: white;
+}
+
+.txt-black{
+    color: black;
+}
+
+.txt-navy{
+    color: #14213D;
+}
+
+.txt-accent{
+    color: #FCA311;
+}
+
+.txt-accent a{
+    color:#FCA311;
+   
+}
+
+.txt-accent a:hover{
+    color: #E5E5E5;
+}
+
+.txt-lightGray{
+    background-color:#E5E5E5;
+}
+
+
+
+
+.ps-light{
+    background-color:white;
+    height: 550px;
+    width: 100%
+}
+
+.ps-gray{
+    background-color:#E5E5E5;
+    height: 550;
+    width: 100%
+}
+
+.ps-lightheading{
+    background-color:white;
+    height: 200px;
+    width: 100%
+}
+
+.ps-locations{
+    background-color: rgb(247, 242, 232);
+    height: 450px;
+    width: 100%
+
+}
+
+.ps-menu{
+    /* background-color: #ff7d00; */
+    background-color: #f3efe9;
+    height: 450px;
+    width: 100%
+
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
